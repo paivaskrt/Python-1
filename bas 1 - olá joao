@@ -1,0 +1,6 @@
+# Definindo o nome e a idade diretamente no código
+nome = "João"
+idade = 25
+
+# Exibe uma mensagem personalizada
+print(f"Olá, {nome}! Você tem {idade} anos.")
